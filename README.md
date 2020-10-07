@@ -1,6 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ifaiq19>&theme=![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true)" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifaiq19)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ifaiq19/ifaiq19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
