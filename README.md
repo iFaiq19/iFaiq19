@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=ifaiq19&style=flat-square&color=#e04c12)
+![](https://komarev.com/ghpvc/?username=ifaiq19&style=flat-square&color=blue)
 
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaiq19&theme=react" /> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifaiq19&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
