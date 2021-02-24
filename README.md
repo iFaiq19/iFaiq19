@@ -2,9 +2,10 @@
 
 Student of BS Computer Science 
 
-🔭 I’m currently working on Python and C++
+<!--🔭 I’m currently working on Python and C++-->
 
-🌱 I’m currently learning C++
+
+🌱 I’m currently learning Javascript
 
 📫 How to reach me: faiq.019@gmail.com or <a href="https://www.linkedin.com/in/faiq-mahmood-22510b19b/">LinkedIn</a>
 
