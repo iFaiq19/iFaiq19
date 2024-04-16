@@ -11,7 +11,7 @@ Student of BS Computer Science
 
 ![](https://komarev.com/ghpvc/?username=ifaiq19&style=flat-square&color=blue)
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaiq19&theme=react" /> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifaiq19&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaiq19" /> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifaiq19&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ifaiq19/ifaiq19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
